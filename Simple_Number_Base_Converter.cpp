@@ -36,6 +36,7 @@ bool validateInput(std::string input_number, int source_base){
         // input_number[i]!='1' && input_number[i]!='0' && input_number[i]!='.'){
         //     return false;
         // }
+        //AHHHHHHHHHHHHHHHHHHHHHHHHHHH
         if(input_number[i]=='.'){
             count++;
         }
